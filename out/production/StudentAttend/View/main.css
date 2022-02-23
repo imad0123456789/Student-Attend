@@ -1,0 +1,9 @@
+
+
+AnchorPane {
+    -fx-border-color: blue;
+    -fx-background-color: red;
+    /*-fx-background-image: url('');*/
+    -fx-font-family:'Syne Tactile', cursive;
+}
+
